@@ -1,0 +1,35 @@
+- type: entity
+  parent: BaseWall
+  id: BDBaseWall
+  abstract: true
+  categories: [ ForkFiltered ]
+  name: wall
+  description: Thats the WALL.
+  placement:
+    mode: SnapgridCenter
+    snap:
+    - Wall
+  components:
+  - type: Transform
+    noRot: true
+  - type: Sprite
+    drawdepth: Mobs
+  - type: SpriteFade
+  - type: IconSmooth
+    key: Wall
+    base: wall
+  - type: Icon
+    state: full
+  - type: PlacementReplacement
+    key: walls
+
+- type: entity
+  parent: BDBaseWall
+  id: BDWallWhite
+  name: white wall
+  description: A painted white metal wall.
+  components:
+  - type: Sprite
+    sprite: _BD/Structures/Walls/white_wall.rsi
+  - type: Icon
+    sprite: _BD/Structures/Walls/white_wall.rsi
