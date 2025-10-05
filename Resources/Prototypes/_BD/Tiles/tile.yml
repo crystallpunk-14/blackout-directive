@@ -1,10 +1,155 @@
 - type: tile
-  id: BaselineTile
-  name: tiles-plating
-  sprite: /Textures/_BD/Tiles/tile.png
-  baseTurf: BaselineTile # Recursive indestructible
+  id: BDWhitePlate
+  name: bd-tiles-white-plate
+  sprite: /Textures/_BD/Tiles/white_plate/tile.png
+  baseTurf: BDWhitePlate # Recursive indestructible
+  variants: 10
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 100
+  edgeSprites:
+    South: /Textures/_BD/Tiles/white_plate/edge_S.png
   footstepSounds:
     collection: FootstepPlating
   friction: 1.5
   heatCapacity: 10000
   editorHidden: false
+
+- type: tile
+  id: BDFloorGrass
+  editorHidden: false
+  name: bd-tiles-grass
+  sprite: /Textures/_BD/Tiles/grass_1/grass.png
+  variants: 6
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 90
+  edgeSprites:
+    SouthEast: /Textures/_BD/Tiles/grass_1/single_edge_SE.png
+    NorthEast: /Textures/_BD/Tiles/grass_1/single_edge_NE.png
+    NorthWest: /Textures/_BD/Tiles/grass_1/single_edge_NW.png
+    SouthWest: /Textures/_BD/Tiles/grass_1/single_edge_SW.png
+    South: /Textures/_BD/Tiles/grass_1/double_edge_S.png
+    East: /Textures/_BD/Tiles/grass_1/double_edge_E.png
+    North: /Textures/_BD/Tiles/grass_1/double_edge_N.png
+    West: /Textures/_BD/Tiles/grass_1/double_edge_W.png
+  baseTurf: BDFloorGrass
+  isSubfloor: false
+  footstepSounds:
+    collection: FootstepGrass
+  heatCapacity: 10000
+  weather: true
+
+- type: tile
+  id: BDFloorGrass2
+  editorHidden: false
+  name: bd-tiles-grass
+  sprite: /Textures/_BD/Tiles/grass_2/grass.png
+  variants: 6
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 91
+  edgeSprites:
+    SouthEast: /Textures/_BD/Tiles/grass_2/single_edge_SE.png
+    NorthEast: /Textures/_BD/Tiles/grass_2/single_edge_NE.png
+    NorthWest: /Textures/_BD/Tiles/grass_2/single_edge_NW.png
+    SouthWest: /Textures/_BD/Tiles/grass_2/single_edge_SW.png
+    South: /Textures/_BD/Tiles/grass_2/double_edge_S.png
+    East: /Textures/_BD/Tiles/grass_2/double_edge_E.png
+    North: /Textures/_BD/Tiles/grass_2/double_edge_N.png
+    West: /Textures/_BD/Tiles/grass_2/double_edge_W.png
+  baseTurf: BDFloorGrass2
+  isSubfloor: false
+  footstepSounds:
+    collection: FootstepGrass
+  heatCapacity: 10000
+  weather: true
+
+- type: tile
+  id: BDFloorGrass3
+  editorHidden: false
+  name: bd-tiles-grass
+  sprite: /Textures/_BD/Tiles/grass_3/grass.png
+  variants: 6
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 92
+  edgeSprites:
+    SouthEast: /Textures/_BD/Tiles/grass_3/single_edge_SE.png
+    NorthEast: /Textures/_BD/Tiles/grass_3/single_edge_NE.png
+    NorthWest: /Textures/_BD/Tiles/grass_3/single_edge_NW.png
+    SouthWest: /Textures/_BD/Tiles/grass_3/single_edge_SW.png
+    South: /Textures/_BD/Tiles/grass_3/double_edge_S.png
+    East: /Textures/_BD/Tiles/grass_3/double_edge_E.png
+    North: /Textures/_BD/Tiles/grass_3/double_edge_N.png
+    West: /Textures/_BD/Tiles/grass_3/double_edge_W.png
+  baseTurf: BDFloorGrass3
+  isSubfloor: false
+  footstepSounds:
+    collection: FootstepGrass
+  heatCapacity: 10000
+  weather: true
+
+- type: tile
+  id: BDFloorDirt
+  editorHidden: false
+  name: bd-tiles-dirt
+  sprite: /Textures/_BD/Tiles/dirt/cavedrought.png
+  variants: 16
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 89
+  edgeSprites:
+    SouthEast: /Textures/_BD/Tiles/dirt/single_edge_SE.png
+    NorthEast: /Textures/_BD/Tiles/dirt/single_edge_NE.png
+    NorthWest: /Textures/_BD/Tiles/dirt/single_edge_NW.png
+    SouthWest: /Textures/_BD/Tiles/dirt/single_edge_SW.png
+    South: /Textures/_BD/Tiles/dirt/double_edge_S.png
+    East: /Textures/_BD/Tiles/dirt/double_edge_E.png
+    North: /Textures/_BD/Tiles/dirt/double_edge_N.png
+    West: /Textures/_BD/Tiles/dirt/double_edge_W.png
+  baseTurf: BDFloorDirt
+  isSubfloor: false
+  footstepSounds:
+    collection: FootstepAsteroid
+  heatCapacity: 10000
+  weather: true

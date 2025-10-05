@@ -1,0 +1,36 @@
+- type: entity
+  id: BDWindowBase
+  abstract: true
+  parent: Window
+  categories: [ ForkFiltered ]
+  components:
+  - type: Sprite
+    drawdepth: Mobs
+  - type: Icon
+    state: full
+  - type: IconSmooth
+    key: BDWindow
+    base: wall
+  - type: PlacementReplacement
+    key: walls
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.5,-0.5,0.5,0.5"
+        mask:
+        - FullTileMask
+        layer:
+        - GlassLayer
+
+- type: entity
+  id: BDWindowWhite
+  parent: BDWindowBase
+  name: window
+  description: Thats a window.
+  components:
+  - type: Sprite
+    sprite: _BD/Structures/Windows/white_window.rsi
+  - type: Icon
+    sprite: _BD/Structures/Windows/white_window.rsi

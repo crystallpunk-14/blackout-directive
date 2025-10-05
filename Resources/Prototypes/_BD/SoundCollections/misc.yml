@@ -1,0 +1,7 @@
+
+- type: soundCollection
+  id: BDGrassGathering
+  files:
+    - /Audio/_BD/Effects/grass_gather.ogg
+    - /Audio/_BD/Effects/grass_gather2.ogg
+    - /Audio/_BD/Effects/grass_gather3.ogg

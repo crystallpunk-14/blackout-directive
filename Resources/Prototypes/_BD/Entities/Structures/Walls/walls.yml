@@ -4,7 +4,7 @@
   abstract: true
   categories: [ ForkFiltered ]
   name: wall
-  description: Thats the WALL.
+  description: A solid wall restricting your movement around the station.
   placement:
     mode: SnapgridCenter
     snap:
@@ -26,10 +26,70 @@
 - type: entity
   parent: BDBaseWall
   id: BDWallWhite
-  name: white wall
-  description: A painted white metal wall.
   components:
   - type: Sprite
     sprite: _BD/Structures/Walls/white_wall.rsi
   - type: Icon
     sprite: _BD/Structures/Walls/white_wall.rsi
+
+- type: entity
+  parent: BDBaseWall
+  id: BDWallLeaf
+  name: foliage wall
+  description: Neatly trimmed foliage growing in a special tub.
+  components:
+  - type: Sprite
+    sprite: _BD/Structures/Walls/leaf_bed.rsi
+  - type: Icon
+    sprite: _BD/Structures/Walls/leaf_bed.rsi
+  - type: IconSmooth
+    key: BDWallLeaf
+    base: wall
+
+- type: entity
+  parent: BDBaseWall
+  id: BDWallLeafBush
+  name: foliage bush
+  suffix: Pass
+  description: Bushy vegetation growing directly on the ground. If you move carefully enough, you can walk right through it!
+  components:
+  - type: Sprite
+    sprite: _BD/Structures/Walls/leaf.rsi
+  - type: Icon
+    sprite: _BD/Structures/Walls/leaf.rsi
+  - type: IconSmooth
+    key: BDWallLeaf
+    base: wall
+  - type: Fixtures
+    fixtures:
+      fix1:
+        hard: false
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.45,-0.45,0.45,0.45"
+        density: 1000
+        mask:
+        - FullTileMask
+        layer:
+        - WallLayer
+      fix2: #For melee or laser
+        hard: true
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.35,-0.35,0.35,0.35"
+        mask:
+        - FullTileMask
+        layer:
+        - Opaque
+  - type: SpeedModifierContacts
+    walkSpeedModifier: 0.25
+    sprintSpeedModifier: 0.25
+  - type: Airtight
+    airBlocked: false
+  - type: TriggerOnCollide
+    fixtureID: fix1
+  - type: EmitSoundOnTrigger
+    sound:
+      params:
+        volume: -8
+      collection: BDGrassGathering

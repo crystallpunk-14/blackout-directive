@@ -1,0 +1,215 @@
+- type: decal
+  id: BDDottedLineE
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_e
+
+- type: decal
+  id: BDDottedLineN
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_n
+
+- type: decal
+  id: BDDottedLineNEBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_ne_b
+
+- type: decal
+  id: BDDottedLineNESmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_ne_s
+
+- type: decal
+  id: BDDottedLineS
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_s
+
+- type: decal
+  id: BDDottedLineSEBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_se_b
+
+- type: decal
+  id: BDDottedLineSESmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_se_s
+
+- type: decal
+  id: BDDottedLineSWBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_sw_b
+
+- type: decal
+  id: BDDottedLineSWSmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_sw_s
+
+- type: decal
+  id: BDDottedLineW
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_w
+
+- type: decal
+  id: BDDottedLineWNBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_wn_b
+
+- type: decal
+  id: BDDottedLineWNSmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: dotted_line_wn_s
+
+- type: decal
+  id: BDLineE
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_e
+
+- type: decal
+  id: BDLineN
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_n
+
+- type: decal
+  id: BDLineNEBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_ne_b
+
+- type: decal
+  id: BDLineNESmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_ne_s
+
+- type: decal
+  id: BDLineNWBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_nw_b
+
+- type: decal
+  id: BDLineNWSmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_nw_s
+
+- type: decal
+  id: BDLineS
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_s
+
+- type: decal
+  id: BDLineSEBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_se_b
+
+- type: decal
+  id: BDLineSESmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_se_s
+
+- type: decal
+  id: BDLineSWBig
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_sw_b
+
+- type: decal
+  id: BDLineSWSmall
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_sw_s
+
+- type: decal
+  id: BDLineW
+  defaultCleanable: false
+  defaultSnap: true
+  showMenu: true
+  sprite:
+    sprite: _BD/Decals/markings.rsi
+    state: line_w
