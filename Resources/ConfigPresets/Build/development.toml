@@ -35,11 +35,15 @@ auto_call_time = 0
 emergency = false
 arrivals = false
 preload_grids = false
+camera_rotation_locked = true
 
 [admin]
 see_own_notes = true
 
 [ic]
-random_characters = true
+random_characters = false
 random_species_weights = ""
 ssd_sleep_time = 3600
+
+[movement]
+mob_pushing = true
