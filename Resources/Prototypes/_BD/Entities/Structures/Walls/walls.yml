@@ -42,6 +42,9 @@
     sprite: _BD/Structures/Walls/leaf_bed.rsi
   - type: Icon
     sprite: _BD/Structures/Walls/leaf_bed.rsi
+  - type: IconSmooth
+    key: BDWallLeaf
+    base: wall
 
 - type: entity
   parent: BDBaseWall
@@ -54,6 +57,9 @@
     sprite: _BD/Structures/Walls/leaf.rsi
   - type: Icon
     sprite: _BD/Structures/Walls/leaf.rsi
+  - type: IconSmooth
+    key: BDWallLeaf
+    base: wall
   - type: Fixtures
     fixtures:
       fix1:
