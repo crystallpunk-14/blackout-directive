@@ -1,6 +1,6 @@
 - type: tile
   id: BDWhitePlate
-  name: tiles-plating
+  name: bd-tiles-white-plate
   sprite: /Textures/_BD/Tiles/white_plate/tile.png
   baseTurf: BDWhitePlate # Recursive indestructible
   variants: 10
@@ -27,7 +27,7 @@
 - type: tile
   id: BDFloorGrass
   editorHidden: false
-  name: bd-tiles-grass-1
+  name: bd-tiles-grass
   sprite: /Textures/_BD/Tiles/grass_1/grass.png
   variants: 6
   placementVariants:
@@ -57,7 +57,7 @@
 - type: tile
   id: BDFloorGrass2
   editorHidden: false
-  name: bd-tiles-grass-2
+  name: bd-tiles-grass
   sprite: /Textures/_BD/Tiles/grass_2/grass.png
   variants: 6
   placementVariants:
@@ -87,7 +87,7 @@
 - type: tile
   id: BDFloorGrass3
   editorHidden: false
-  name: bd-tiles-grass-3
+  name: bd-tiles-grass
   sprite: /Textures/_BD/Tiles/grass_3/grass.png
   variants: 6
   placementVariants:

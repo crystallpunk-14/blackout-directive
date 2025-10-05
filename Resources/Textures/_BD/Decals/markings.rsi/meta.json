@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Created bby TheShuEd (Github)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "dotted_line_e"
+    },
+    {
+      "name": "dotted_line_n"
+    },
+    {
+      "name": "dotted_line_ne_b"
+    },
+    {
+      "name": "dotted_line_ne_s"
+    },
+    {
+      "name": "dotted_line_s"
+    },
+    {
+      "name": "dotted_line_se_b"
+    },
+    {
+      "name": "dotted_line_se_s"
+    },
+    {
+      "name": "dotted_line_sw_b"
+    },
+    {
+      "name": "dotted_line_sw_s"
+    },
+    {
+      "name": "dotted_line_w"
+    },
+    {
+      "name": "dotted_line_wn_b"
+    },
+    {
+      "name": "dotted_line_wn_s"
+    },
+    {
+      "name": "line_e"
+    },
+    {
+      "name": "line_n"
+    },
+    {
+      "name": "line_ne_b"
+    },
+    {
+      "name": "line_ne_s"
+    },
+    {
+      "name": "line_nw_b"
+    },
+    {
+      "name": "line_nw_s"
+    },
+    {
+      "name": "line_s"
+    },
+    {
+      "name": "line_se_b"
+    },
+    {
+      "name": "line_se_s"
+    },
+    {
+      "name": "line_sw_b"
+    },
+    {
+      "name": "line_sw_s"
+    },
+    {
+      "name": "line_w"
+    }
+  ]
+}
