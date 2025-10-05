@@ -23,6 +23,8 @@
       collection: FootstepHull
   - type: Climbable
   - type: PlaceableSurface
+  - type: PlacementReplacement
+    key: walls
 
 - type: entity
   parent: BDTableBase
@@ -31,6 +33,10 @@
   components:
   - type: Sprite
     sprite: _BD/Structures/Decorations/Tables/sci.rsi
+    state: full
   - type: Icon
     sprite: _BD/Structures/Decorations/Tables/sci.rsi
     state: full
+  - type: IconSmooth
+    key: table
+    base: state
