@@ -31,4 +31,6 @@
   description: Thats a window.
   components:
   - type: Sprite
-    sprite: _DB/Structures/Windows/white_window.rsi
+    sprite: _BD/Structures/Windows/white_window.rsi
+  - type: Icon
+    sprite: _BD/Structures/Windows/white_window.rsi
