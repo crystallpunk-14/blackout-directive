@@ -111,8 +111,19 @@ public sealed class HumanoidAppearanceSystem : SharedHumanoidAppearanceSystem
         if (protoId == null)
             return;
 
+        //Blackout female bodies support
+        //if (sexMorph)
+        //    protoId = HumanoidVisualLayersExtension.GetSexMorph(key, component.Sex, protoId);
+
         if (sexMorph)
-            protoId = HumanoidVisualLayersExtension.GetSexMorph(key, component.Sex, protoId);
+        {
+            var tempProto = HumanoidVisualLayersExtension.GetSexMorph(key, component.Sex, protoId);
+            if (_prototypeManager.TryIndex<HumanoidSpeciesSpriteLayer>(tempProto, out _))
+            {
+                protoId = tempProto;
+            }
+        }
+        //Blackout female bodies support end
 
         var proto = _prototypeManager.Index<HumanoidSpeciesSpriteLayer>(protoId);
         component.BaseLayers[key] = proto;

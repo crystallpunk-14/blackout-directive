@@ -1,0 +1,161 @@
+- type: species
+  id: BDHuman
+  name: species-name-human
+  roundStart: true
+  prototype: BDMobHuman
+  sprites: BDMobHumanSprites
+  markingLimits: MobHumanMarkingLimits
+  dollPrototype: BDMobHumanDummy
+  skinColoration: HumanToned
+
+- type: speciesBaseSprites
+  id: BDMobHumanSprites
+  sprites:
+    Head: BDMobHumanHead
+    Hair: BDMobHumanoidAnyMarking
+    FacialHair: BDMobHumanoidAnyMarking
+    Snout: BDMobHumanoidAnyMarking
+    Chest: BDMobHumanTorso
+    Eyes: BDMobHumanoidEyes
+    LArm: BDMobHumanLArm
+    RArm: BDMobHumanRArm
+    LHand: BDMobHumanLHand
+    RHand: BDMobHumanRHand
+    LLeg: BDMobHumanLLeg
+    RLeg: BDMobHumanRLeg
+    LFoot: BDMobHumanLFoot
+    RFoot: BDMobHumanRFoot
+
+- type: humanoidBaseSprite
+  id: BDMobHumanoidEyes
+  baseSprite:
+    sprite: _BD/Mobs/Customization/eyes.rsi
+    state: eyes
+
+- type: humanoidBaseSprite
+  id: BDMobHumanoidAnyMarking
+
+- type: humanoidBaseSprite
+  id: BDMobHumanoidMarkingMatchSkin
+  markingsMatchSkin: true
+
+- type: humanoidBaseSprite
+  id: BDMobHumanHead
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/parts.rsi
+    state: head
+
+- type: humanoidBaseSprite
+  id: BDMobHumanHeadFemale
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/female_parts.rsi
+    state: head
+
+- type: humanoidBaseSprite
+  id: BDMobHumanTorso
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/parts.rsi
+    state: torso
+
+- type: humanoidBaseSprite
+  id: BDMobHumanTorsoFemale
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/female_parts.rsi
+    state: torso
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLLeg
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLLegFemale
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/female_parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLArm
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLArmFemale
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/female_parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLHand
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLHandFemale
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/female_parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLFoot
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: BDMobHumanLFootFemale
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/female_parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRLeg
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRLegFemale
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/female_parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRArm
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRArmFemale
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/female_parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRHand
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRHandFemale
+  baseSprite:
+    sprite:  _BD/Mobs/Species/Human/female_parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRFoot
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/parts.rsi
+    state: r_foot
+
+- type: humanoidBaseSprite
+  id: BDMobHumanRFootFemale
+  baseSprite:
+    sprite: _BD/Mobs/Species/Human/female_parts.rsi
+    state: r_foot
+
