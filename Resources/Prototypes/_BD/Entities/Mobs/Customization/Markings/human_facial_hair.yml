@@ -1,0 +1,279 @@
+- type: marking
+  id: BDHumanFacialHair3Clock
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: 3oclock
+
+- type: marking
+  id: BDHumanFacialHair5oclockmoustache
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: 5oclockmoustache
+
+- type: marking
+  id: BDHumanFacialHair7oclock
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: 7oclock
+
+- type: marking
+  id: BDHumanFacialHair7oclockmoustache
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: 7oclockmoustache
+
+- type: marking
+  id: BDHumanFacialHairAbe
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: abe
+
+- type: marking
+  id: BDHumanFacialHairChinlessbeard
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: chinlessbeard
+
+- type: marking
+  id: BDHumanFacialHairDwarf
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: dwarf
+
+- type: marking
+  id: BDHumanFacialHairDwarf2
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: dwarf2
+
+- type: marking
+  id: BDHumanFacialHairElvis
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: elvis
+
+- type: marking
+  id: BDHumanFacialHairFiveoclock
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: fiveoclock
+
+- type: marking
+  id: BDHumanFacialHairFullbeard
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: fullbeard
+
+- type: marking
+  id: BDHumanFacialHairFumanchu
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: fumanchu
+
+- type: marking
+  id: BDHumanFacialHairGoateemush
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: goateemush
+
+- type: marking
+  id: BDHumanFacialHairGt
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: gt
+
+- type: marking
+  id: BDHumanFacialHairHip
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: hip
+
+- type: marking
+  id: BDHumanFacialHairHogan
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: hogan
+
+- type: marking
+  id: BDHumanFacialHairHussar
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: hussar
+
+- type: marking
+  id: BDHumanFacialHairJensen
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: jensen
+
+- type: marking
+  id: BDHumanFacialHairLongbeard
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: longbeard
+
+- type: marking
+  id: BDHumanFacialHairMartialartist
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: martialartist
+
+- type: marking
+  id: BDHumanFacialHairMartialartist2
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: martialartist2
+
+- type: marking
+  id: BDHumanFacialHairMoonshiner
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: moonshiner
+
+- type: marking
+  id: BDHumanFacialHairMoustache
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: moustache
+
+- type: marking
+  id: BDHumanFacialHairMutton
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: mutton
+
+- type: marking
+  id: BDHumanFacialHairMuttonmus
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: muttonmus
+
+- type: marking
+  id: BDHumanFacialHairNeckbeard
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: neckbeard
+
+- type: marking
+  id: BDHumanFacialHairPencilstache
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: pencilstache
+
+- type: marking
+  id: BDHumanFacialHairSelleck
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: selleck
+
+- type: marking
+  id: BDHumanFacialHairSideburn
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: sideburn
+
+- type: marking
+  id: BDHumanFacialHairSmallstache
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: smallstache
+
+- type: marking
+  id: BDHumanFacialHairVandyke
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: vandyke
+
+- type: marking
+  id: BDHumanFacialHairVolaju
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: volaju
+
+- type: marking
+  id: BDHumanFacialHairWalrus
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: walrus
+
+- type: marking
+  id: BDHumanFacialHairWatson
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: watson
+
+- type: marking
+  id: BDHumanFacialHairWise
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_facial_hair.rsi
+      state: wise

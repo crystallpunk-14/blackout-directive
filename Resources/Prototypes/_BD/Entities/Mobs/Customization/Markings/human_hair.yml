@@ -1,0 +1,1231 @@
+- type: marking
+  id: BDHumanHair_80s
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: 80s
+
+- type: marking
+  id: BDHumanHair_A
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: a
+
+- type: marking
+  id: BDHumanHair_Afro
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: afro
+
+- type: marking
+  id: BDHumanHair_Afro2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: afro2
+
+- type: marking
+  id: BDHumanHair_Antenna
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: antenna
+
+- type: marking
+  id: BDHumanHair_B
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: b
+
+- type: marking
+  id: BDHumanHair_Bedhead
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bedhead
+
+- type: marking
+  id: BDHumanHair_BedheadV2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bedheadv2
+
+- type: marking
+  id: BDHumanHair_BedheadV3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bedheadv3
+
+- type: marking
+  id: BDHumanHair_BeeHive
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: beehive
+
+- type: marking
+  id: BDHumanHair_BeeHive2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: beehive2
+
+- type: marking
+  id: BDHumanHair_Bigafro
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bigafro
+
+- type: marking
+  id: BDHumanHair_BigPompadour
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bigpompadour
+
+- type: marking
+  id: BDHumanHair_blowcut
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: blowcut
+
+- type: marking
+  id: BDHumanHair_bob
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bob
+
+- type: marking
+  id: BDHumanHair_bob2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bob2
+
+- type: marking
+  id: BDHumanHair_bob4
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bob4
+
+- type: marking
+  id: BDHumanHair_bob5
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bob5
+
+- type: marking
+  id: BDHumanHair_bobcurl
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bobcurl
+
+- type: marking
+  id: BDHumanHair_bobcut
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bobcut
+
+- type: marking
+  id: BDHumanHair_boddicker
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: boddicker
+
+- type: marking
+  id: BDHumanHair_bowlcut2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bowlcut2
+
+- type: marking
+  id: BDHumanHair_braid
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: braid
+
+- type: marking
+  id: BDHumanHair_braid2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: braid2
+
+- type: marking
+  id: BDHumanHair_braided
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: braided
+
+- type: marking
+  id: BDHumanHair_braidfront
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: braidfront
+
+- type: marking
+  id: BDHumanHair_braidtail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: braidtail
+
+- type: marking
+  id: BDHumanHair_bun3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bun3
+
+- type: marking
+  id: BDHumanHair_bunhead2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: bunhead2
+
+- type: marking
+  id: BDHumanHair_business
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: business
+
+- type: marking
+  id: BDHumanHair_business2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: business2
+
+- type: marking
+  id: BDHumanHair_business3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: business3
+
+- type: marking
+  id: BDHumanHair_business4
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: business4
+
+- type: marking
+  id: BDHumanHair_c
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: c
+
+- type: marking
+  id: BDHumanHair_cia
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: cia
+
+- type: marking
+  id: BDHumanHair_classicbusiness
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: classicbusiness
+
+- type: marking
+  id: BDHumanHair_classiclong2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: classiclong2
+
+- type: marking
+  id: BDHumanHair_classiclong3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: classiclong3
+
+- type: marking
+  id: BDHumanHair_classicmodern
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: classicmodern
+
+- type: marking
+  id: BDHumanHair_classicwisp
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: classicwisp
+
+- type: marking
+  id: BDHumanHair_combover
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: combover
+
+- type: marking
+  id: BDHumanHair_cornrowbraid
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: cornrowbraid
+
+- type: marking
+  id: BDHumanHair_cornrowbun
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: cornrowbun
+
+- type: marking
+  id: BDHumanHair_cornrows
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: cornrows
+
+- type: marking
+  id: BDHumanHair_cornrows2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: cornrows2
+
+- type: marking
+  id: BDHumanHair_cornrowtail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: cornrowtail
+
+- type: marking
+  id: BDHumanHair_country
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: country
+
+- type: marking
+  id: BDHumanHair_crazybald
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: crazybald
+
+- type: marking
+  id: BDHumanHair_curls
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: curls
+
+- type: marking
+  id: BDHumanHair_dandypompadour
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: dandypompadour
+
+- type: marking
+  id: BDHumanHair_doublebun
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: doublebun
+
+- type: marking
+  id: BDHumanHair_doublebun_long
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: doublebun_long
+
+- type: marking
+  id: BDHumanHair_dreads
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: dreads
+
+- type: marking
+  id: BDHumanHair_drillhair
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: drillhair
+
+- type: marking
+  id: BDHumanHair_drillhairextended
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: drillhairextended
+
+- type: marking
+  id: BDHumanHair_drillruru
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: drillruru
+
+- type: marking
+  id: BDHumanHair_e
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: e
+
+- type: marking
+  id: BDHumanHair_emo
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: emo
+
+- type: marking
+  id: BDHumanHair_emo2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: emo2
+
+- type: marking
+  id: BDHumanHair_emofringe
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: emofringe
+
+- type: marking
+  id: BDHumanHair_f
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: f
+
+- type: marking
+  id: BDHumanHair_father
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: father
+
+- type: marking
+  id: BDHumanHair_feather
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: feather
+
+- type: marking
+  id: BDHumanHair_flair
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: flair
+
+- type: marking
+  id: BDHumanHair_floorlength_bedhead
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: floorlength_bedhead
+
+- type: marking
+  id: BDHumanHair_fringetail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: fringetail
+
+- type: marking
+  id: BDHumanHair_gelled
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: gelled
+
+- type: marking
+  id: BDHumanHair_gentle
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: gentle
+
+- type: marking
+  id: BDHumanHair_halfbang
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: halfbang
+
+- type: marking
+  id: BDHumanHair_halfbang2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: halfbang2
+
+- type: marking
+  id: BDHumanHair_halfshaved
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: halfshaved
+
+- type: marking
+  id: BDHumanHair_hbraid
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: hbraid
+
+- type: marking
+  id: BDHumanHair_hedgehog
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: hedgehog
+
+- type: marking
+  id: BDHumanHair_highponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: highponytail
+
+- type: marking
+  id: BDHumanHair_himecut
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: himecut
+
+- type: marking
+  id: BDHumanHair_himecut2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: himecut2
+
+- type: marking
+  id: BDHumanHair_himeup
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: himeup
+
+- type: marking
+  id: BDHumanHair_hitop
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: hitop
+
+- type: marking
+  id: BDHumanHair_jade
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: jade
+
+- type: marking
+  id: BDHumanHair_jensen
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: jensen
+
+- type: marking
+  id: BDHumanHair_joestar
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: joestar
+
+- type: marking
+  id: BDHumanHair_kagami
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: kagami
+
+- type: marking
+  id: BDHumanHair_keanu
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: keanu
+
+- type: marking
+  id: BDHumanHair_kusanagi
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: kusanagi
+
+- type: marking
+  id: BDHumanHair_largebun
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: largebun
+
+- type: marking
+  id: BDHumanHair_lbangs
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: lbangs
+
+- type: marking
+  id: BDHumanHair_long
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: long
+
+- type: marking
+  id: BDHumanHair_long_bedhead
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: long_bedhead
+
+- type: marking
+  id: BDHumanHair_long2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: long2
+
+- type: marking
+  id: BDHumanHair_long3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: long3
+
+- type: marking
+  id: BDHumanHair_longbow
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: longbow
+
+- type: marking
+  id: BDHumanHair_longbundled
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: longbundled
+
+- type: marking
+  id: BDHumanHair_longemo
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: longemo
+
+- type: marking
+  id: BDHumanHair_longfringe
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: longfringe
+
+- type: marking
+  id: BDHumanHair_longovereye
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: longovereye
+
+- type: marking
+  id: BDHumanHair_longsidepart
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: longsidepart
+
+- type: marking
+  id: BDHumanHair_longstraightponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: longstraightponytail
+
+- type: marking
+  id: BDHumanHair_manbun
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: manbun
+
+- type: marking
+  id: BDHumanHair_maxy_shagy
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: maxy_shagy
+
+- type: marking
+  id: BDHumanHair_messy
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: messy
+
+- type: marking
+  id: BDHumanHair_modern
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: modern
+
+- type: marking
+  id: BDHumanHair_nitori
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: nitori
+
+- type: marking
+  id: BDHumanHair_odango
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: odango
+
+- type: marking
+  id: BDHumanHair_ombre
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ombre
+
+- type: marking
+  id: BDHumanHair_oneshoulder
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: oneshoulder
+
+- type: marking
+  id: BDHumanHair_oxton
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: oxton
+
+- type: marking
+  id: BDHumanHair_part
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: part
+
+- type: marking
+  id: BDHumanHair_parted
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: parted
+
+- type: marking
+  id: BDHumanHair_pigtails
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: pigtails
+
+- type: marking
+  id: BDHumanHair_pigtails2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: pigtails2
+
+- type: marking
+  id: BDHumanHair_pixie
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: pixie
+
+- type: marking
+  id: BDHumanHair_ponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ponytail
+
+- type: marking
+  id: BDHumanHair_ponytail2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ponytail2
+
+- type: marking
+  id: BDHumanHair_ponytail3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ponytail3
+
+- type: marking
+  id: BDHumanHair_ponytail4
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ponytail4
+
+- type: marking
+  id: BDHumanHair_ponytail5
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ponytail5
+
+- type: marking
+  id: BDHumanHair_ponytail6
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ponytail6
+
+- type: marking
+  id: BDHumanHair_ponytail7
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ponytail7
+
+- type: marking
+  id: BDHumanHair_protagonist
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: protagonist
+
+- type: marking
+  id: BDHumanHair_Pulato
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: pulato
+
+- type: marking
+  id: BDHumanHair_quiff
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: quiff
+
+- type: marking
+  id: BDHumanHair_reversemohawk
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: reversemohawk
+
+- type: marking
+  id: BDHumanHair_ronin
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: ronin
+
+- type: marking
+  id: BDHumanHair_rosa
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: rosa
+
+- type: marking
+  id: BDHumanHair_shaped
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shaped
+
+- type: marking
+  id: BDHumanHair_shortbangs
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shortbangs
+
+- type: marking
+  id: BDHumanHair_shortbraid
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shortbraid
+
+- type: marking
+  id: BDHumanHair_shorthair2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shorthair2
+
+- type: marking
+  id: BDHumanHair_shorthair3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shorthair3
+
+- type: marking
+  id: BDHumanHair_shorthairg
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shorthairg
+
+- type: marking
+  id: BDHumanHair_shorthime
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shorthime
+
+- type: marking
+  id: BDHumanHair_shortovereye
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shortovereye
+
+- type: marking
+  id: BDHumanHair_shoulderlengthovereye
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: shoulderlengthovereye
+
+- type: marking
+  id: BDHumanHair_sidecut
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: sidecut
+
+- type: marking
+  id: BDHumanHair_sidetail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: sidetail
+
+- type: marking
+  id: BDHumanHair_sidetail2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: sidetail2
+
+- type: marking
+  id: BDHumanHair_sidetail4
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: sidetail4
+
+- type: marking
+  id: BDHumanHair_skinhead
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: skinhead
+
+- type: marking
+  id: BDHumanHair_spiky
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: spiky
+
+- type: marking
+  id: BDHumanHair_spiky2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: spiky2
+
+- type: marking
+  id: BDHumanHair_spikyponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: spikyponytail
+
+- type: marking
+  id: BDHumanHair_stail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: stail
+
+- type: marking
+  id: BDHumanHair_swept
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: swept
+
+- type: marking
+  id: BDHumanHair_swept2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: swept2
+
+- type: marking
+  id: BDHumanHair_tressshoulder
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: tressshoulder
+
+- type: marking
+  id: BDHumanHair_twintail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: twintail
+
+- type: marking
+  id: BDHumanHair_undercutright
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: undercutright
+
+- type: marking
+  id: BDHumanHair_uneven
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: uneven
+
+- type: marking
+  id: BDHumanHair_twostrands
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: twostrands
+
+- type: marking
+  id: BDHumanHair_unkept
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: unkept
+
+- type: marking
+  id: BDHumanHair_Updo
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: updo
+
+- type: marking
+  id: BDHumanHair_VLongFringe
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: vlongfringe
+
+- type: marking
+  id: BDHumanHair_Volaju
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: volaju
+
+- type: marking
+  id: BDHumanHair_Wisp
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _BD/Mobs/Customization/human_hair.rsi
+      state: wisp
