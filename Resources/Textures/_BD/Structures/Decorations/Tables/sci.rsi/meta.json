@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Created by TheShuEd (Github)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "full",
+	  "delays": [
+	    [
+		  1
+		]
+	  ]
+    },
+    {
+      "name": "state0",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    },
+    {
+      "name": "state1",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    },
+    {
+      "name": "state2",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    },
+    {
+      "name": "state3",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    },
+    {
+      "name": "state4",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    },
+    {
+      "name": "state5",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    },
+    {
+      "name": "state6",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    },
+    {
+      "name": "state7",
+	  "directions": 4,
+	  "delays": [
+	    [
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		],
+		[
+		  1.0
+		]
+	  ]
+    }
+  ]
+}

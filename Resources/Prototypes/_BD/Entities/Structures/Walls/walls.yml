@@ -28,9 +28,19 @@
   id: BDWallWhite
   components:
   - type: Sprite
-    sprite: _BD/Structures/Walls/white_wall.rsi
+    sprite: _BD/Structures/Walls/white.rsi
   - type: Icon
-    sprite: _BD/Structures/Walls/white_wall.rsi
+    sprite: _BD/Structures/Walls/white.rsi
+
+- type: entity
+  parent: BDBaseWall
+  id: BDWallScience
+  suffix: Science
+  components:
+  - type: Sprite
+    sprite: _BD/Structures/Walls/sci.rsi
+  - type: Icon
+    sprite: _BD/Structures/Walls/sci.rsi
 
 - type: entity
   parent: BDBaseWall

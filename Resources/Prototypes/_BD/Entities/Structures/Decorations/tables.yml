@@ -1,0 +1,42 @@
+- type: entity
+  parent:
+  - BaseStructure
+  id: BDTableBase
+  categories: [ ForkFiltered ]
+  abstract: true
+  name: table
+  description: A table to put things on.
+  components:
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.45,-0.45,0.45,0.45"
+        density: 55
+        mask: # tables should collide with other tables
+        - TableMask
+        layer:
+        - TableLayer
+  - type: FootstepModifier
+    footstepSoundCollection:
+      collection: FootstepHull
+  - type: Climbable
+  - type: PlaceableSurface
+  - type: PlacementReplacement
+    key: walls
+
+- type: entity
+  parent: BDTableBase
+  id: BDTableScience
+  suffix: Science
+  components:
+  - type: Sprite
+    sprite: _BD/Structures/Decorations/Tables/sci.rsi
+    state: full
+  - type: Icon
+    sprite: _BD/Structures/Decorations/Tables/sci.rsi
+    state: full
+  - type: IconSmooth
+    key: table
+    base: state
