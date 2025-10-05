@@ -7,19 +7,18 @@ namespace Content.Shared.Humanoid
     {
         public static bool HasSexMorph(HumanoidVisualLayers layer)
         {
-            return true; //BLACKOUT - Support female body
-            //return layer switch
-            //{
-            //    HumanoidVisualLayers.Chest => true,
-            //    HumanoidVisualLayers.Head => true,
-            //    _ => false
-            //};
+            return layer switch
+            {
+                HumanoidVisualLayers.Chest => true,
+                HumanoidVisualLayers.Head => true,
+                _ => false
+            };
         }
 
         public static string GetSexMorph(HumanoidVisualLayers layer, Sex sex, string id)
         {
-            if (!HasSexMorph(layer) || sex == Sex.Unsexed)
-                return id;
+            //if (!HasSexMorph(layer) || sex == Sex.Unsexed) //BLACKOUT - support female bodies
+            //    return id;
 
             return $"{id}{sex}";
         }
